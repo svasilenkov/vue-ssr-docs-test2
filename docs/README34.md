@@ -16,6 +16,10 @@ Vue.js is a framework for building client-side applications. By default, Vue  co
 
 Hello, world! 1
 
+Hello, world! 4
+
+## Because 2
+
 ## Because
 
 ## Why SSR?
@@ -23,6 +27,8 @@ Hello, world! 1
 Compared to a traditional SPA (Single-Page Application), the advantage of SSR primarily lies in:
 
 Hello, world! 2
+
+Hello, world! 5
 
 - Better SEO, as the search engine crawlers will directly see the fully rendered page.
 
